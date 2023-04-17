@@ -1,0 +1,35 @@
+body{
+    background-image: 
+    url(https://img.freepik.com/premium-photo/vintage-room-with-wiretapping-reel-tape-recorder-retro-old-school-spying-conversations-intelligence-gathering-espionage-concept_370059-6539.jpg?size=626&ext=jpg&ga=GA1.2.1721919804.1677370331&semt=ais);
+    color: rgb(207, 204, 198);
+    background-color: aqua;
+    background-repeat: no-repeat;
+    width: max-content;
+    background-size: cover;
+    height: 100%;
+    margin: auto;
+    padding: 30px;
+    font-family: system-ui;
+}
+h1{
+    color: rgb(209, 140, 11);
+    font-weight: bold;
+}
+.field{
+    border-radius: 4px solid rgb(28, 94, 28);
+    
+    font-weight: bold;
+
+}
+legend{
+    font-size: 25px;
+}
+.pk{
+    margin: auto;
+    width: fit-content;
+    padding: 10px;
+}
+.pic{
+    display: flex;
+  justify-content: space-between;
+}
